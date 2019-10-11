@@ -60,7 +60,7 @@ ready to be compiled and installed. Below there is an example for local installa
 ::
 
   $ cd MyPorject
-  $ sh build.sh local
+  $ sh ./build.sh local
 
 The user application is installed in directory $HOME/.ASNeG or C:\ASNeG by default. And you can run it by using OPC UA Server:
 
